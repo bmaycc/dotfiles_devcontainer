@@ -1,6 +1,7 @@
 [user]
 	name = Barry May
 	email = 97460763+bmay-cloudwallcapital@users.noreply.github.com
+	signingkey = AC94A8C22A17ECC6
 [init]
 	defaultBranch = main
 [pull]
